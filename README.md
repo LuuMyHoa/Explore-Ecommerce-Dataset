@@ -51,6 +51,8 @@ The table below summarizes the key fields used in this analysis. The complete da
 ## SQL Analysis
 The project answers several key business questions using SQL in Google BigQuery. 
 
+The full SQL analysis can be viewed [here](https://console.cloud.google.com/bigquery?sq=961620975192:4679c420e9cf426f872f57eb6c3a284e).
+
 **1. Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month).**
 
 ```sql
