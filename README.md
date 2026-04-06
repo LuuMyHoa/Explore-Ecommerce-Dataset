@@ -352,11 +352,11 @@ ORDER BY quantity DESC;
 
 ### 📍Key Insights
 
-- Declining Traffic Quality: Overall visits and pageviews decreased in Q2. High bounce rates in several traffic sources (especially social channels)
+- Declining Traffic Quality: Overall visits and pageviews decreased in Q2, high bounce rates in several traffic sources (especially social channels)
 
-- Conversion Bottleneck at Bottom Funnel: Add-to-cart rate remains stable (~40%), Purchase rate significantly lower (~12%) → indicates friction in checkout stage
+- Conversion Bottleneck at Bottom Funnel: Add-to-cart rate remains stable (~40%), purchase rate significantly lower (~12%) → indicates friction in checkout stage
 
-- Revenue Concentration Risk: Majority of revenue comes from a few channels (Direct, Google, DFA). Heavy reliance on limited acquisition sources
+- Revenue Concentration Risk: Majority of revenue comes from a few channels (Direct, Google, DFA), heavy reliance on limited acquisition sources
 
 - High-value Users Show Deep Engagement: Purchasers view 6–7x more pages than non-purchasers → strong correlation between engagement depth and conversion
 
