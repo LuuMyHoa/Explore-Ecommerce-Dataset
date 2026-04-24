@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-* 📌 [Business Problem](#business-problem)
-* 📂 [Dataset](#dataset)
-* 🔍 [Analysis](#analysis)
-* 📝 [Conclusion](#conclusion)
+1. 📌 [Business Problem](#business-problem)
+2. 📂 [Dataset](#dataset)
+3. 🔍 [Analysis](#analysis)
+4. 📝 [Conclusion](#conclusion)
 
 ## 📌 Business Problem
 This project uses SQL to analyze data from BigBang Merchandise Store to: 
